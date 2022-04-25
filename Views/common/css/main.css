@@ -1,0 +1,25 @@
+.nav-link:hover{
+    background-color: #f8f9fa;
+}
+.nav-link:hover > i, .nav-link:hover > span{
+    color: #212529;
+}
+.active:hover > i, .active:hover > span{
+    color: white;
+}
+
+.profile-link{
+    text-decoration: none;
+    margin-bottom: 5px;
+}
+
+.hide{
+    display:none;
+}
+
+.form {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
